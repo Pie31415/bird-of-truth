@@ -2,7 +2,7 @@
 Misinformation Hackathon 2023
 
 
-Twitter integration JS/Python (**?**)
+Twitter integration JS/Python (**?**)  
 OpenAPI integration handled in python
 
 ## Stack
